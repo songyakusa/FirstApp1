@@ -7,6 +7,8 @@ import androidx.core.view.GravityCompat
 import androidx.databinding.DataBindingUtil
 import androidx.drawerlayout.widget.DrawerLayout
 import com.example.firstapp1.R
+import com.example.firstapp1.aboutme.Aboutme
+import com.example.firstapp1.contact.Contact
 import com.example.firstapp1.databinding.ActivityMainBinding
 import com.google.android.material.navigation.NavigationView
 
